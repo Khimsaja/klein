@@ -9,15 +9,15 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "plss mau dong",
-        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
+        image: "https://i.pinimg.com/736x/b2/f8/bb/b2f8bb3ec6b166e66ffbab3bb9900355.jpg"
     },
     {
-        text: "pls klik yg kiri",
-        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
+        text: "pencet kiri zee :)",
+        image: "https://i.pinimg.com/736x/59/27/3f/59273fd2918b801b34d69fd03d42a03f.jpg"
     },
     {
         text: "terakhir, kalo \"no\" yauda deh",
-        image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
+        image: "https://i.pinimg.com/736x/de/aa/13/deaa13adb04e81a4c6cb48a318384dbe.jpg"
     }
 ];
 
